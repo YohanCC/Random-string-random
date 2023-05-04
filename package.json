@@ -1,0 +1,27 @@
+{
+  "name": "random-string-random",
+  "version": "1.0.0",
+  "description": "Random String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YohanCC/Random-string-random.git"
+  },
+  "keywords": [],
+  "author": "Yohan Castro <acuario.kaki@♦gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YohanCC/Random-string-random/issues"
+  },
+  "homepage": "https://github.com/YohanCC/Random-string-random#readme",
+  "bin": {
+    "Random-string-random": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
